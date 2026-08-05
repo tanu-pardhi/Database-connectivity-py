@@ -1,11 +1,11 @@
 import mysql.connector as m
 
 con = m.connect(
-    host="localhost",
-    port="3306",
-    user="root",
-    password="abc123",
-    database="Freshers",
+    host="enter your localhost",
+    port="enter your port",
+    user="enter your user",
+    password="enter your password",
+    database="enetr your database",
   
 )
 
